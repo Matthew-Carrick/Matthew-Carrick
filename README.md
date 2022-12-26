@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Matthew-Carrick
-- 🌱 I’m currently learning MEAN Stack
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me ...
 
